@@ -7,6 +7,7 @@ schema:
   version: "2019.02.11"
   author:
     - 騰達 <dieghv@126.com>
+    - Gaginang
   description: |
     Community Teochew
     Originally from https://kahaani.github.io/dieghv
@@ -90,7 +91,7 @@ speller:
     - abbrev/^(ng).+$/$1/
 
 translator:
-  dictionary: dieziu
+  dictionary: teochew
   spelling_hints: 5
   preedit_format:
     # 便捷鍵還原
