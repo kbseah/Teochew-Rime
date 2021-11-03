@@ -6,7 +6,7 @@
 # 來源：《潮州音字典》
 # - 吳華重、林適民主編，廣東人民出版社1983年重版
 # - 騰達據音序檢字表錄入，並按OpenCC的用字習慣調整字頭
-#
+# - Various contributors: Additional vocabulary with vernacular pronunciations and alternative characters
 
 ---
 name: teochew
@@ -18,6 +18,69 @@ use_preset_vocabulary: true
 汝好	lu2 ho2	10
 汝好	leu2 ho2	10
 會曉	oi6 hiao2	10
+阿姈	a1 ne1
+𧧸	bak4
+捌	bak4
+肉	bhah4
+⺼	bhah4
+沕	bhi7
+𡚸	bhou2
+畔	boin5
+拔	buah8
+跋	buah8
+分	bung1
+㖹	bung5
+co7	co7
+揣	cue7
+查埔	da1 bou1
+丈夫	da1 bou1
+旦	dan1
+底	di7
+哋	di7
+底𫢗	di7 diang1
+哋𫢗	di7 diang1
+𫢗	diang1
+𫢗時	diang1 si5
+長	dien2
+𠡒	dui2
+佮	gah4
+加	ge1
+𠢕	ghao5
+囝	gian2
+囝日	gian2 rik8
+寒	guan5
+和尚	hue1 sien5
+許陣	hv2 zung5
+𪜶	ing2
+佮	kah4
+徛起	kia6 ki2
+挈	kieh4
+羅經	lo5 gen1
+𡀔	lou7
+明起	ma3 ki2
+明日	ma3 rik8
+⿰口乜	me7
+明起	mua3 ki2
+明日	mua3 rik8
+⿱不畏	mui3
+啱	ngam1
+啱啱	ngam1 ngam1
+𰇇	no7
+孥囝	nou1 gian2
+若	rieh8
+若㩼	rieh8 zoi7
+須囝	su1 gian2
+刣	tai5
+動	tang6
+𨑨迌	tik4 to5
+睇	toin2
+阮	ung2
+查某	za1 bhou2
+諸母	za1 bhou2
+只陣	zi2 zung5
+匝	zua7
+陣	zung5
+諸娘	zv1 nie5
 
 # 字典字音，按音序檢字表排列
 亞	a1
