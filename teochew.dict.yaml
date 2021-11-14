@@ -19,66 +19,74 @@ use_preset_vocabulary: true
 汝好	leu2 ho2	10
 會曉	oi6 hiao2	10
 阿姈	a1 ne1
-𧧸	bak4
-捌	bak4
-肉	bhah4
-⺼	bhah4
+𧧸	bak4	# “to know (somebody, something)”
+捌	bak4	# “to know (somebody, something)” TW MOE character
+逼惻	bek4 cek4	# Cai 1991 #2473
+肉	bhah4	# semantic replacement
+⺼	bhah4	# semantic replacement
 沕	bhi7
 𡚸	bhou2
-畔	boin5
+畔	boin5	# “side (of a feature, direction)”, vernacular character used in Li 1959, cf. 爿
 拔	buah8
 跋	buah8
 分	bung1
 㖹	bung5
-co7	co7
-揣	cue7
-查埔	da1 bou1
-丈夫	da1 bou1
+co7	co7	# “to keep in a container”
+揣	cue7	# TW MOE character
+查埔	da1 bou1	# TW MOE character
+丈夫	da1 bou1	# Original character, see 《潮汕方言詞考释》
 旦	dan1
 底	di7
-哋	di7
+哋	di7	# question particle; phonetic character used in Li 1959
 底𫢗	di7 diang1
-哋𫢗	di7 diang1
+哋𫢗	di7 diang1	# “who”; phonetic character used in Li 1959
 𫢗	diang1
 𫢗時	diang1 si5
 長	dien2
+底	doin2
 𠡒	dui2
 佮	gah4
 加	ge1
 𠢕	ghao5
 囝	gian2
-囝日	gian2 rik8
+囝日	gian2 rik8	# “today”, gian2 probably a contraction, phonetic replacement
 寒	guan5
+乏	hek8	# “tired”, original character, see 《潮汕方言词考释》
 和尚	hue1 sien5
 許陣	hv2 zung5
-𪜶	ing2
-佮	kah4
+𪜶	ing2	# 3rd person plural pronoun, TW MOE character
+佮	kah4	# meaning “too much”, TW MOE character
+乞	kvh4	# meaning “to give”, passive marker
+乞	keh4	# meaning “to give”, passive marker
+乞	kih4	# meaning “to give”, passive marker
+乞	koih4	# meaning “to give”, passive marker (pronunciation in Lim 1886)
 徛起	kia6 ki2
-挈	kieh4
+挈	kieh4	# TW MOE character
 羅經	lo5 gen1
-𡀔	lou7
-明起	ma3 ki2
-明日	ma3 rik8
-⿰口乜	me7
-明起	mua3 ki2
-明日	mua3 rik8
-⿱不畏	mui3
+𡀔	lou7	# utterance particle, maybe elision of liou 了, phonetic character used in Li 1959
+明起	ma3 ki2	# “tomorrow morning”, semantic replacement for ma3
+明日	ma3 rik8	# “tomorrow”, semantic replacement for ma3
+⿰口乜	me7	# question particle, phonetic character used in Li 1959
+明起	mua3 ki2	# “tomorrow”, semantic replacement for mua3
+明日	mua3 rik8	# “tomorrow”, semantic replacement for mua3
+⿱不畏	mui3	# contraction m6-ui3, vernacular character used in Li 1959
 啱	ngam1
 啱啱	ngam1 ngam1
-𰇇	no7
+𰇇	no7	# utterance particle, phonetic character used in Li 1959
 孥囝	nou1 gian2
 若	rieh8
 若㩼	rieh8 zoi7
 須囝	su1 gian2
-刣	tai5
+刣	tai5	# “to kill”, vernacular character
 動	tang6
-𨑨迌	tik4 to5
+𨑨迌	tik4 to5	# “to play”, TW MOE character
 睇	toin2
 阮	ung2
-查某	za1 bhou2
-諸母	za1 bhou2
+查某	za1 bhou2	# “woman, female”, TW MOE character
+諸母	za1 bhou2	# “woman, female”, original character?
 只陣	zi2 zung5
-匝	zua7
+做呢	zo3 ni5
+匝	zua7	# “a time, iteration”
 陣	zung5
 諸娘	zv1 nie5
 
