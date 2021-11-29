@@ -19,84 +19,84 @@ use_preset_vocabulary: true
 汝好	leu2 ho2	10
 會曉	oi6 hiao2	10
 阿姈	a1 ne1
-欲	ain3	# “to want”, vernacular semantic replacement for 愛
-𧧸	bak4	# “to know (somebody, something)”
-捌	bak4	# “to know (somebody, something)” TW MOE character
+欲	ain3(S)	# “to want”, vernacular semantic replacement for 愛
+𧧸	bak4(S)	# “to know (somebody, something)”
+捌	bak4(T)	# “to know (somebody, something)” TW MOE character
 逼惻	bek4 cek4	# Cai 1991 #2473
-肉	bhah4	# semantic replacement
+肉	bhah4(H)	# semantic replacement
 ⺼	bhah4	# semantic replacement
 沕	bhi7
-𡚸	bhou2
-畔	boin5	# “side (of a feature, direction)”, vernacular character used in Li 1959, cf. 爿
+𡚸	bhou2(S)
+畔	boin5(S)	# “side (of a feature, direction)”, vernacular character used in Li 1959, cf. 爿
 拔	buah8
 跋	buah8
 分	bung1
 㖹	bung5
 co7	co7	# “to keep in a container”
-揣	cue7	# TW MOE character
-查埔	da1 bou1	# TW MOE character
-丈夫	da1 bou1	# Original character, see 《潮汕方言詞考释》
+揣	cue7(T)	# TW MOE character
+查埔	da1 bou1(T)	# TW MOE character
+丈夫	da1 bou1(B)	# Original character, see 《潮汕方言詞考释》
 旦	dan1
 底	di7
-哋	di7	# question particle; phonetic character used in Li 1959
+哋	di7(I)	# question particle; phonetic character used in Li 1959
 底𫢗	di7 diang1
-哋𫢗	di7 diang1	# “who”; phonetic character used in Li 1959
+哋𫢗	di7 diang1(I)	# “who”; phonetic character used in Li 1959
 𫢗	diang1
 𫢗時	diang1 si5
 長	dien2
 底	doin2
 𠡒	dui2
-交落	ga1 laoh8	# “to drop”, TW MOE characters
+交落	ga1 laoh8(T)	# “to drop”, TW MOE characters
 佮	gah4
-捔	gak8	# “to throw”, Wiktionary, likely a phonetic character, no character in Cai 1991 #0953
+捔	gak8(S)	# “to throw”, Wiktionary, likely phonetic, no character in Cai 1991 #0953
 加	ge1
 𠢕	ghau5
 囝	gian2
 囝日	gian2 rik8	# “today”, gian2 probably a contraction, phonetic replacement
 寒	guan5
-乏	hek8	# “tired”, original character, see 《潮汕方言词考释》
+乏	hek8(B)	# “tired”, original character, see 《潮汕方言词考释》
 和尚	hue1 sien5
 許陣	hv2 zung5
-𪜶	ing2	# 3rd person plural pronoun, TW MOE character
-骹	ka1	# “leg”, original character 新编潮州音字典 1997
-跤	ka1	# “leg”, TW MOE character
-佮	kah4	# meaning “too much”, TW MOE character
+𪜶	ing2(TC)	# 3rd person plural pronoun, TW MOE character
+骹	ka1(B)	# “leg”, original character 新编潮州音字典 1997
+跤	ka1(T)	# “leg”, TW MOE character
+佮	kah4(T)	# meaning “too much”, TW MOE character
 乞	kvh4	# meaning “to give”, passive marker
 乞	keh4	# meaning “to give”, passive marker
 乞	kih4	# meaning “to give”, passive marker
 乞	koih4	# meaning “to give”, passive marker (pronunciation in Lim 1886)
 徛起	kia6 ki2
-挈	kieh4	# TW MOE character
-禮	li2	# literary pronunciation, 新编潮州音字典 1997
+挈	kieh4(T)	# TW MOE character
+禮	li2(L)	# 新编潮州音字典 1997
 羅經	lo5 gen1
-𡀔	lou7	# utterance particle, maybe elision of liou 了, phonetic character used in Li 1959
+𡀔	lou7(I)	# utterance particle, maybe elision of liou 了, phonetic character used in Li 1959
 明起	ma3 ki2	# “tomorrow morning”, semantic replacement for ma3
 明日	ma3 rik8	# “tomorrow”, semantic replacement for ma3
-⿰口乜	me7	# question particle, phonetic character used in Li 1959
+⿰口乜	me7(I)	# question particle, phonetic character used in Li 1959
 明起	mua3 ki2	# “tomorrow”, semantic replacement for mua3
 明日	mua3 rik8	# “tomorrow”, semantic replacement for mua3
-⿱不畏	mui3	# contraction m6-ui3, vernacular character used in Li 1959
+⿱不畏	mui3(C)	# contraction m6-ui3, vernacular character used in Li 1959
 阮	ng2	# 1st person plural exclusive pronoun, vernacular character and TW MOE character
 啱	ngam1
 啱啱	ngam1 ngam1
 両	nie2	# “tael”, variant character
 両	nio2	# “tael”, variant character, Swatow pronunciation
-𰇇	no7	# utterance particle, phonetic character used in Li 1959
-荔	noi7	# “lychee”, vernacular pronunciation, 张晓山《新潮汕字典（精编本）》 pg. 199
+𰇇	no7(I)	# utterance particle, phonetic character used in Li 1959
+荔	noi7(V)	# “lychee” 张晓山《新潮汕字典（精编本）》 pg. 199
 孥囝	nou1 gian2
-歹	pai2	# “mischievous, bad (of a person)”, TW MOE character
-娝	pai2	# “mischievous, bad (of a person)”, original character, see 《潮汕方言词考释》
+歹	pai2(T)	# “mischievous, bad (of a person)”, TW MOE character
+娝	pai2(B)	# “mischievous, bad (of a person)”, original character, see 《潮汕方言词考释》
 若	rieh8
 若㩼	rieh8 zoi7
 須囝	su1 gian2
 刣	tai5	# “to kill”, vernacular character
 動	tang6
-𨑨迌	tik4 to5	# “to play”, TW MOE character
+𨑨迌	tik4 to5(T)	# “to play”, TW MOE character
 睇	toin2
-阮	uang2	# 1st person plural exclusive pronoun, vernacular character and TW MOE character
-阮	ung2	# 1st person plural exclusive pronoun, vernacular character and TW MOE character
-查某	za1 bhou2	# “woman, female”, TW MOE character
-諸母	za1 bhou2	# “woman, female”, original character?
+阮	uang2(ST)	# 1st person plural exclusive pronoun, vernacular character and TW MOE character
+阮	ung2ST	# 1st person plural exclusive pronoun, vernacular character and TW MOE character
+查某	za1 bhou2(T)	# “woman, female”, TW MOE character
+諸母	za1 bhou2(B)	# “woman, female”, original character?
 只陣	zi2 zung5
 做呢	zo3 ni5
 匝	zua7	# “a time, iteration”
