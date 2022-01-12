@@ -44,7 +44,11 @@ use_preset_vocabulary: true
 跋	buah8
 分	bung1
 㖹	bung5
+床	cvng5	# “bed”, “table”
 co7	co7	# “to keep in a container”
+𡥘	cua7(S)	# “to marry”
+𤆬	cua7(T)	# “to marry”
+娶	cua7(H)	# “to marry”
 揣	cue7(T)
 查埔	da1 bou1(T)
 丈夫	da1 bou1(B)	# 李新魁、林伦伦 1992《潮汕方言詞考释》
@@ -85,6 +89,7 @@ co7	co7	# “to keep in a container”
 明起	ma3 ki2	# “tomorrow morning”, semantic replacement for ma3
 明日	ma3 rik8	# “tomorrow”, semantic replacement for ma3
 ⿰口乜	me7(I)	# question particle, 李永明 1959《潮州方言》
+眠床	ming7 cvng5	# “bed”
 明起	mua3(H) ki2	# “tomorrow”
 明日	mua3(H) rik8	# “tomorrow”
 ⿱不畏	mui3(C)	# 唔+畏, 李永明 1959《潮州方言》
