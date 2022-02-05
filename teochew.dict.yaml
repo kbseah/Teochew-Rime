@@ -24,6 +24,30 @@ version: "2019.02.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+# Symbols for missing characters, and IDS symbols
+□	x
+■	x
+⿰	x
+⿱	x
+⿲	x
+⿳	x
+⿴	x
+⿵	x
+⿶	x
+⿷	x
+⿸	x
+⿹	x
+⿺	x
+⿻	x
+# Traditional tone marks from Modifier Tone Letters block
+꜀	y1
+꜁	y2
+꜂	y3
+꜃	y4
+꜄	y5
+꜅	y6
+꜆	y7
+꜇	y8
 # Newly Added Word
 汝好	lu2 ho2	10
 汝好	leu2 ho2	10
@@ -39,6 +63,7 @@ use_preset_vocabulary: true
 沕	bhi7
 無能爲	bho5 leng5 ui5	# “unable, incapable” 李新魁、林伦伦 1992《潮汕方言詞考释》69
 𡚸	bhou2(S)
+𫰇	bhou2(S)	# “wife”, simplified character from historical opera woodblock prints
 畔	boin5(H)	# “side (of a feature, direction)”, cf. 爿, 李永明 1959《潮州方言》
 拔	buah8
 跋	buah8
@@ -96,6 +121,7 @@ co7	co7	# “to keep in a container”
 阮	ng2	# 1st person plural exclusive pronoun
 啱	ngam1
 啱啱	ngam1 ngam1
+𭑧	nie5	# “lady”, vernacular simplified character
 両	nie2	# “tael”, variant character
 両	nio2	# “tael”, variant character, Swatow pronunciation
 𰇇	no7(I)	# utterance particle, 李永明 1959《潮州方言》
@@ -113,6 +139,7 @@ co7	co7	# “to keep in a container”
 動	tang6
 𨑨迌	tik4 to5(T)	# “to play”
 睇	toin2
+晏	uan3(S)	# “late”
 阮	uang2(ST)	# 1st person plural exclusive pronoun
 阮	ung2(ST)	# 1st person plural exclusive pronoun
 查某	za1 bhou2(T)	# “woman, female”
