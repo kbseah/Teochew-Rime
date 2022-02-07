@@ -7,6 +7,16 @@
 # - 吳華重、林適民主編，廣東人民出版社1983年重版
 # - 騰達據音序檢字表錄入，並按OpenCC的用字習慣調整字頭
 # - Various contributors: Additional vocabulary with vernacular pronunciations and alternative characters
+#
+# Etymological annotations
+# L 文 : literary pronunciation
+# V 白 : vernacular pronunciation
+# C 合 : compound character
+# H 訓 : semantic gloss character
+# B 本 : original character
+# S 俗 : vernacular variant character
+# T 臺 : Taiwan MOE recommended character for Taiwanese equivalent
+# I 音 : phonetic loan character
 
 ---
 name: teochew
@@ -14,71 +24,131 @@ version: "2019.02.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+# Symbols for missing characters, and IDS symbols
+□	x
+■	x
+⿰	x
+⿱	x
+⿲	x
+⿳	x
+⿴	x
+⿵	x
+⿶	x
+⿷	x
+⿸	x
+⿹	x
+⿺	x
+⿻	x
+# Traditional tone marks from Modifier Tone Letters block
+꜀	y1
+꜁	y2
+꜂	y3
+꜃	y4
+꜄	y5
+꜅	y6
+꜆	y7
+꜇	y8
 # Newly Added Word
 汝好	lu2 ho2	10
 汝好	leu2 ho2	10
 會曉	oi6 hiao2	10
 阿姈	a1 ne1
-𧧸	bak4
-捌	bak4
-肉	bhah4
-⺼	bhah4
+欲	ain3(H)	# “to want”, H for 愛
+要	ain3(H)	# “to want”, H for 愛
+𧧸	bak4(S)	# “to know (somebody, something)”
+捌	bak4(T)	# “to know (somebody, something)”
+逼惻	bek4 cek4	# 蔡俊明 1991《潮州方言詞匯》#2473
+肉	bhah4(H)
+⺼	bhah4(S)
 沕	bhi7
-𡚸	bhou2
-畔	boin5
+無能爲	bho5 leng5 ui5	# “unable, incapable” 李新魁、林伦伦 1992《潮汕方言詞考释》69
+𡚸	bhou2(S)
+𫰇	bhou2(S)	# “wife”, simplified character from historical opera woodblock prints
+畔	boin5(H)	# “side (of a feature, direction)”, cf. 爿, 李永明 1959《潮州方言》
 拔	buah8
 跋	buah8
 分	bung1
 㖹	bung5
-co7	co7
-揣	cue7
-查埔	da1 bou1
-丈夫	da1 bou1
+床	cvng5	# “bed”, “table”
+co7	co7	# “to keep in a container”
+𡥘	cua7(S)	# “to marry”
+𤆬	cua7(T)	# “to marry”
+娶	cua7(H)	# “to marry”
+揣	cue7(T)
+查埔	da1 bou1(T)
+丈夫	da1 bou1(B)	# 李新魁、林伦伦 1992《潮汕方言詞考释》
 旦	dan1
 底	di7
-哋	di7
+哋	di7(I)	# question particle, 李永明 1959《潮州方言》
 底𫢗	di7 diang1
-哋𫢗	di7 diang1
+哋𫢗	di7 diang1(I)	# “who”, 李永明 1959《潮州方言》
 𫢗	diang1
 𫢗時	diang1 si5
 長	dien2
+底	doin2
 𠡒	dui2
+交落	ga1 laoh8(T)	# “to drop”
 佮	gah4
+捔	gak8(S)	# “to throw”, Wiktionary, no character in 蔡俊明 1991《潮州方言詞匯》#0953
 加	ge1
-𠢕	ghao5
+𠢕	ghau5
 囝	gian2
-囝日	gian2 rik8
+囝日	gian2(C) rik8	# “today”
 寒	guan5
+乏	hek8(B)	# “tired”, 李新魁、林伦伦 1992《潮汕方言詞考释》
 和尚	hue1 sien5
 許陣	hv2 zung5
-𪜶	ing2
-佮	kah4
+𪜶	ing2(TC)	# 3rd person plural pronoun
+骹	ka1(B)	# “leg”, 林倫倫 1997《新编潮州音字典》
+跤	ka1(T)	# “leg”
+佮	kah4(T)	# meaning “too much”
+乞	kvh4	# “to give”, passive marker
+乞	keh4	# “to give”, passive marker
+乞	kih4	# “to give”, passive marker
+乞	koih4	# “to give”, passive marker (pronunciation in Lim 1886 “Handbook”)
 徛起	kia6 ki2
-挈	kieh4
+挈	kieh4(T)	# “to take”
+禮	li2(L)	# 林倫倫 1997《新编潮州音字典》
 羅經	lo5 gen1
-𡀔	lou7
-明起	ma3 ki2
-明日	ma3 rik8
-⿰口乜	me7
-明起	mua3 ki2
-明日	mua3 rik8
-⿱不畏	mui3
+𡀔	lou7(I)	# utterance particle, maybe elision of liou 了, 李永明 1959《潮州方言》
+明起	ma3 ki2	# “tomorrow morning”, semantic replacement for ma3
+明日	ma3 rik8	# “tomorrow”, semantic replacement for ma3
+⿰口乜	me7(I)	# question particle, 李永明 1959《潮州方言》
+眠床	ming7 cvng5	# “bed”
+明起	mua3(H) ki2	# “tomorrow”
+明日	mua3(H) rik8	# “tomorrow”
+⿱不畏	mui3(C)	# 唔+畏, 李永明 1959《潮州方言》
+阮	ng2	# 1st person plural exclusive pronoun
 啱	ngam1
 啱啱	ngam1 ngam1
-𰇇	no7
+𭑧	nie5	# “lady”, vernacular simplified character
+両	nie2	# “tael”, variant character
+両	nio2	# “tael”, variant character, Swatow pronunciation
+𰇇	no7(I)	# utterance particle, 李永明 1959《潮州方言》
+荔	noi7(V)	# “lychee” 张晓山 2010《新潮汕字典（精编本）》 pg. 199
 孥囝	nou1 gian2
+歹	pai2(T)	# “mischievous, bad (of a person)”
+娝	pai2(B)	# “mischievous, bad (of a person)”, 李新魁、林伦伦 1992《潮汕方言詞考释》69
+痞	pai2(V)	# “mischievous, bad (of a person)”, alternative character, 李新魁、林伦伦 1992《潮汕方言詞考释》69
+痞囝	pai2(V) gian2	# “mischievous, bad person” 李新魁、林伦伦 1992《潮汕方言詞考释》69
+痞	pi2(L)	# “mischievous, bad (of a person)”, alternative character, 李新魁、林伦伦 1992《潮汕方言詞考释》69
 若	rieh8
 若㩼	rieh8 zoi7
 須囝	su1 gian2
-刣	tai5
+刣	tai5(S)	# “to kill”, vernacular character
 動	tang6
-𨑨迌	tik4 to5
+𨑨迌	tik4 to5(T)	# “to play”
 睇	toin2
-阮	ung2
-查某	za1 bhou2
-諸母	za1 bhou2
+晏	uan3(S)	# “late”
+阮	uang2(ST)	# 1st person plural exclusive pronoun
+阮	ung2(ST)	# 1st person plural exclusive pronoun
+查某	za1 bhou2(T)	# “woman, female”
+諸母	za1 bhou2(B)	# “woman, female”
+走囝	zau2(CI) gian2	# “daughter”
 只陣	zi2 zung5
-匝	zua7
+做呢	zo3 ni5
+做瓠	zo3 bu5(I)	# “together” 蔡俊明 1991《潮州方言詞匯》#3809
+匝	zua7	# “a time, iteration”
 陣	zung5
 諸娘	zv1 nie5
 
