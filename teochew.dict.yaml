@@ -39,6 +39,10 @@ use_preset_vocabulary: true
 ⿹	x
 ⿺	x
 ⿻	x
+# Annotation marks
+△	xx
+○	xx
+々	xx
 # Traditional tone marks from Modifier Tone Letters block
 ꜀	y1
 ꜁	y2
