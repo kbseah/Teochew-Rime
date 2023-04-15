@@ -68,11 +68,14 @@ use_preset_vocabulary: true
 無能爲	bho5 leng5 ui5	# “unable, incapable” 李新魁、林伦伦 1992《潮汕方言詞考释》69
 𡚸	bhou2(S)
 𫰇	bhou2(S)	# “wife”, simplified character from historical opera woodblock prints
+庅	bhua5(S)	# variant simplified character for 磨
 畔	boin5(H)	# “side (of a feature, direction)”, cf. 爿, 李永明 1959《潮州方言》
 拔	buah8
 跋	buah8
+𮨶	bue1(S)	# variant simplified character for 飛
 分	bung1
 㖹	bung5
+斉	ci5(S)	# variant simplified character for 齊
 床	cvng5	# “bed”, “table”
 co7	co7	# “to keep in a container”
 𡥘	cua7(S)	# “to marry”
@@ -89,35 +92,50 @@ co7	co7	# “to keep in a container”
 𫢗	diang1
 𫢗時	diang1 si5
 長	dien2
+𱲣	dieh4(S)	# variant simplified character for 着
+淂	dik4(S)	# variant for 得
 底	doin2
+𨙰	dou1(S)	# variant simplified character for 都
 𠡒	dui2
 交落	ga1 laoh8(T)	# “to drop”
 佮	gah4
+斍	gak4(S)	# vernacular simplified character for 覺
 捔	gak8(S)	# “to throw”, Wiktionary, no character in 蔡俊明 1991《潮州方言詞匯》#0953
 加	ge1
+㪯	gv2(S)	# variant simplified character for 舉
 𠢕	ghau5
+𬥎	ghau5(S)	# variant simplified character for 賢
 囝	gian2
 囝日	gian2(C) rik8	# “today”
+呌	gie3(S)	# variant simplified character for 叫
 寒	guan5
+斈	hak8(S)	# variant simplified character for 學
 乏	hek8(B)	# “tired”, 李新魁、林伦伦 1992《潮汕方言詞考释》
+向	hien3(S)	# “there/those”
+凨	hong1(S)	# variant simplified character for 風
 和尚	hue1 sien5
 許陣	hv2 zung5
 𪜶	ing2(TC)	# 3rd person plural pronoun
 骹	ka1(B)	# “leg”, 林倫倫 1997《新编潮州音字典》
 跤	ka1(T)	# “leg”
 佮	kah4(T)	# meaning “too much”
+玘	ki2(S)	# variant simplified character for 起
 乞	kvh4	# “to give”, passive marker
 乞	keh4	# “to give”, passive marker
 乞	kih4	# “to give”, passive marker
 乞	koih4	# “to give”, passive marker (pronunciation in Lim 1886 “Handbook”)
 徛起	kia6 ki2
 挈	kieh4(T)	# “to take”
+𫔭	kui1(S)	# variant simplified character
 禮	li2(L)	# 林倫倫 1997《新编潮州音字典》
 羅經	lo5 gen1
 𡀔	lou7(I)	# utterance particle, maybe elision of liou 了, 李永明 1959《潮州方言》
 明起	ma3 ki2	# “tomorrow morning”, semantic replacement for ma3
 明日	ma3 rik8	# “tomorrow”, semantic replacement for ma3
+亱	me5(S)	# vernacular simplified character for 夜
 ⿰口乜	me7(I)	# question particle, 李永明 1959《潮州方言》
+𠇮	mia7(S)	# vernacular simplified character 命
+𠇮	meng6(S)	# vernacular simplified character 命
 眠床	ming7 cvng5	# “bed”
 明起	mua3(H) ki2	# “tomorrow”
 明日	mua3(H) rik8	# “tomorrow”
@@ -131,6 +149,8 @@ co7	co7	# “to keep in a container”
 𰇇	no7(I)	# utterance particle, 李永明 1959《潮州方言》
 荔	noi7(V)	# “lychee” 张晓山 2010《新潮汕字典（精编本）》 pg. 199
 孥囝	nou1 gian2
+呵𫩷	o1 lo2
+斈	oh8(S)	# vernacular simplified character for 學
 歹	pai2(T)	# “mischievous, bad (of a person)”
 娝	pai2(B)	# “mischievous, bad (of a person)”, 李新魁、林伦伦 1992《潮汕方言詞考释》69
 痞	pai2(V)	# “mischievous, bad (of a person)”, alternative character, 李新魁、林伦伦 1992《潮汕方言詞考释》69
@@ -141,6 +161,7 @@ co7	co7	# “to keep in a container”
 須囝	su1 gian2
 刣	tai5(S)	# “to kill”, vernacular character
 動	tang6
+厛	tian1(S)	# vernacular simplified character for 廳
 𨑨迌	tik4 to5(T)	# “to play”
 睇	toin2
 晏	uan3(S)	# “late”
@@ -149,6 +170,7 @@ co7	co7	# “to keep in a container”
 查某	za1 bhou2(T)	# “woman, female”
 諸母	za1 bhou2(B)	# “woman, female”
 走囝	zau2(CI) gian2	# “daughter”
+𡛰	ze2(S)	# vernacular simplified character for 姐
 只陣	zi2 zung5
 做呢	zo3 ni5
 做瓠	zo3 bu5(I)	# “together” 蔡俊明 1991《潮州方言詞匯》#3809
