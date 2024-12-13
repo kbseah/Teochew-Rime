@@ -69,14 +69,18 @@ use_preset_vocabulary: true
 𡚸	bhou2(S)
 𫰇	bhou2(S)	# “wife”, simplified character from historical opera woodblock prints
 庅	bhua5(S)	# variant simplified character for 磨
+⿺辶𬌩	bin1(S)	# variant simplified character for 邊
 畔	boin5(H)	# “side (of a feature, direction)”, cf. 爿, 李永明 1959《潮州方言》
 拔	buah8
 跋	buah8
+𦨚	buan1(S)	# variant simplified character for 般
 𮨶	bue1(S)	# variant simplified character for 飛
 分	bung1
 㖹	bung5
 悽	ci1(S)	# variant character for 淒
 斉	ci5(S)	# variant simplified character for 齊
+咲	cie3(S)	# variant simplified character for 笑
+㗛	cie3(S)	# variant simplified character for 笑
 床	cvng5	# “bed”, “table”
 𣥼	co7	# “to keep in a container”
 𡥘	cua7(S)	# “to marry”
@@ -96,8 +100,10 @@ use_preset_vocabulary: true
 長	dien2
 𱲣	dieh4(S)	# variant simplified character for 着
 淂	dik4(S)	# variant for 得
+逓	din5(S)	# variant simplified character for 遞
 底	doin2
 𨙰	dou1(S)	# variant simplified character for 都
+叚	dueng6(S)	# variant simplified character for 段
 𠡒	dui2
 交落	ga1 laoh8(T)	# “to drop”
 佮	gah4
@@ -107,9 +113,12 @@ use_preset_vocabulary: true
 㪯	gv2(S)	# variant simplified character for 舉
 𠢕	ghau5
 𬥎	ghau5(S)	# variant simplified character for 賢
+悞	ghou7(S)	# variant character for 誤
 囝	gian2
 囝日	gian2(C) rik8	# “today”
 呌	gie3(S)	# variant simplified character for 叫
+觧	goi3(S)	# variant simplified character for 解
+𦊱	gua3(S)	# variant simplified character for 掛
 寒	guan5
 𬨨	gue3(S)	# vernacular simplified character for 過
 斈	hak8(S)	# variant simplified character for 學
@@ -130,7 +139,10 @@ use_preset_vocabulary: true
 徛起	kia6 ki2
 挈	kieh4(T)	# “to take”
 𫔭	kui1(S)	# variant simplified character
+群	kung5	# variant for 羣
+凌㓾	leng5 ci5	# variant for 凌遲
 禮	li2(L)	# 林倫倫 1997《新编潮州音字典》
+⿱丸内	li5(S)	# vernacular simplified character 離
 羅經	lo5 gen1
 𡀔	lou7(I)	# utterance particle, maybe elision of liou 了, 李永明 1959《潮州方言》
 明起	ma3 ki2	# “tomorrow morning”, semantic replacement for ma3
@@ -176,9 +188,13 @@ use_preset_vocabulary: true
 諸母	za1 bhou2(B)	# “woman, female”
 走囝	zau2(CI) gian2	# “daughter”
 𡛰	ze2(S)	# vernacular simplified character for 姐
+⿸𠂝丶	zeng3(S)	# variant simplified character for 衆
 只陣	zi2 zung5
+𬌩	zin5(S)	# variant character for 錢
+𠈙	zin5(S)	# variant character for 錢
 做呢	zo3 ni5
 做瓠	zo3 bu5(I)	# “together” 蔡俊明 1991《潮州方言詞匯》#3809
+縂	zong2(S)	# variant character for 總
 匝	zua7	# “a time, iteration”
 陣	zung5
 諸娘	zv1 nie5
